@@ -2,6 +2,9 @@
 
 [English README](README.md) · [完整研究报告](docs/research_report_cn.pdf) · [最终策略说明书](docs/strategy_manual_cn.pdf)
 
+本项目由Edward Ji（@EdwardBoyuanJi）和Francis Ji（@FrancisJi）共同开发。
+两位作者在研究设计、数据工程、模型开发、回测、实施和文档撰写方面做出了同等贡献。
+
 这是一个从数据、预测模型到可执行回测的完整量化研究项目：预测沪金未来 5、20、40 个交易日的实现波动率，再把预测与可交易期权 IV 比较，构建波动率风险溢价策略。
 
 ## 核心结果
