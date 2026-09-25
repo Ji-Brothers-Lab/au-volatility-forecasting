@@ -1,10 +1,10 @@
-This project was jointly developed by **Edward Ji** (@EdwardBoyuanJi) and **Francis Ji** (@FrancisJi).
-
-Both authors contributed equally to the research design, data engineering, model development, backtesting, implementation, and documentation.
-
 # Shanghai Gold Volatility Forecasting & Options Research
 
 [中文说明](README.zh-CN.md) · [Research report](docs/research_report_cn.pdf) · [Strategy manual](docs/strategy_manual_cn.pdf)
+
+This project was jointly developed by **Edward Ji** (@EdwardBoyuanJi) and **Francis Ji** (@FrancisJi).
+
+Both authors contributed equally to the research design, data engineering, model development, backtesting, implementation, and documentation.
 
 An end-to-end quantitative research project for forecasting Shanghai Futures Exchange gold (AU) realized volatility and translating the forecast into an executable options-volatility strategy.
 
@@ -19,7 +19,7 @@ The project covers point-in-time data engineering, 5/20/40-day volatility foreca
 3. Run the six frozen models with one command from [Quick start](#quick-start).
 4. Review the test suite in [tests](tests), the public result tables in [results](results), and the detailed Chinese-language research report linked above.
 
-## What I built
+## What We built
 
 | Layer | Implementation |
 |---|---|
